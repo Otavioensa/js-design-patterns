@@ -29,7 +29,7 @@
   function insurance(macbook) {
     var cost = macbook.cost();
     macbook.cost = function () {
-      return cost + 200;
+      return cost + 275;
     };
   }
 
