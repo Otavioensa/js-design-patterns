@@ -1,0 +1,23 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Project created for personal purpose. On it, there are a few examples of different design patterns that can be used when developing with Javascript.",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Otavioensa/JsDesignPatterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Otavioensa/JsDesignPatterns/issues"
+  },
+  "homepage": "https://github.com/Otavioensa/JsDesignPatterns#readme"
+}
